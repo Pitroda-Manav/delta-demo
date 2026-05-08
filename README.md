@@ -5,5 +5,5 @@ This is a demo for Git @ Github classes.
 Shradha Khapra
 
 # Studnet
-Delta Students
+Delta Student
 
